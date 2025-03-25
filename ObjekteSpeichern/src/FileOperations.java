@@ -45,8 +45,8 @@ public class FileOperations {
         horst.addWrongAnswer(42);
         System.out.println(horst);
 
-//        saveUserSettings(horst, "horst.ser");
-//        UserSettings restoredHorst = loadUserSettings("horst.ser");
-//        System.out.println(restoredHorst);
+        saveUserSettings(horst, "horst.ser");
+        UserSettings restoredHorst = loadUserSettings("horst.ser");
+        System.out.println(restoredHorst);
     }
 }
