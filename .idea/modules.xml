@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ObjekteSpeichern/ObjekteSpeichern.iml" filepath="$PROJECT_DIR$/ObjekteSpeichern/ObjekteSpeichern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projekt-helpdesk.iml" filepath="$PROJECT_DIR$/.idea/projekt-helpdesk.iml" />
+    </modules>
+  </component>
+</project>
